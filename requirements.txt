@@ -1,0 +1,7 @@
+langchain>=1.4.8
+langchain-core>=0.3.0
+langchain-openai>=1.7.3
+langgraph>=1.2.19
+langsmith>=0.14.17
+python-dotenv>=1.2.4
+requests>=2.31.0

@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.idea/
+.jbeval/
+*.pyc
+.DS_Store
